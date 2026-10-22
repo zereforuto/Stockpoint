@@ -1,7 +1,6 @@
 # StockPoint
 
 An offline-first desktop inventory and point-of-sale app for small retail shops, including sari-sari stores, groceries, and boutiques.
-
 StockPoint keeps products, sales, stock movements, reports, and backups on the local device. It does not require an internet connection to operate.
 
 ## Features
